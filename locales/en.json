@@ -1,7 +1,7 @@
 {
-  "HEADER": "Enter your email below to join %s on Slack!",
-  "DISCLAIMER": "Want to be part of the Whitecoin community on Slack? Enter your email below and we will send you an invite to join the channel. We will never sell, rent or give away any information you give to use. You may receive relevant updates about Whitecoin in the future from which you can unsubscribe at any time.",
+  "HEADER": "Join %s on Discord!",
+  "DISCLAIMER": "Want to be part of the Whitecoin community on discord? Please click here <a href='https://discord.gg/GbpdbMt'>https://discord.gg/GbpdbMt</a> ",
   "ENTER_EMAIL": "Enter Your Email Address",
   "ENTER_TOKEN": "Enter the invite token you were given",
-  "TITLE": "Join the %s community on Slack!"
+  "TITLE": "Join the %s community on Discord!"
 }
